@@ -1,0 +1,3 @@
+rootProject.name = 'skv2024'
+include 'module-1'
+include 'common'
