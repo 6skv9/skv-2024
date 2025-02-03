@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Skv2024Application {
 
 	public static void main(String[] args) {
+		System.out.println("Spring Boot Application");
 		SpringApplication.run(Skv2024Application.class, args);
 	}
 
