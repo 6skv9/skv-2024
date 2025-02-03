@@ -1,1 +1,4 @@
 jar.enabled = true
+application {
+    mainClass = 'com.verma.common.CommonApplication'
+}
